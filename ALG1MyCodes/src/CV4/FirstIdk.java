@@ -14,7 +14,7 @@ public class FirstIdk {
     public static void main(String[] args) {
         
         Scanner scanner = new Scanner(System.in);
-        boolean isIt = false;
+        boolean isIt = true;
         int inputCislo = scanner.nextInt();
         
         for (int i = (inputCislo-1); i > 1; i--){
@@ -25,7 +25,6 @@ public class FirstIdk {
                 break;
             }
             else {
-                isIt = true;
 
         }
         }

@@ -54,6 +54,9 @@ public class RodneCislo {
             System.out.println("Zadané rodné číslo " + prvniCast + "/" + druhaCast + " je neplatné");
             }
         }
+        else {
+            System.out.println("Zadané rodné číslo " + prvniCast + "/" + druhaCast + " je neplatné");
+            }
         
         
     }
